@@ -1,5 +1,5 @@
 # Hey, Everyone! I'm Beatriz Santos  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm an undergraduate in Software Engineering and a Technician in Electrotechnics. This repository will be the home of my passion for **robotics**, **automation**, personal and university projects, where I will share solutions and learnings. Join me on this journey of discovery and innovation!
+I'm an undergraduate in Software Engineering and a Technician in Electrotechnics. This repository will be the home of my passion for **robotics**, **automation**, personal and university projects, where I will share solutions and learnings. 
 
 <img align="center" src="https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif" alt="banner" width="900" height="240">
 
